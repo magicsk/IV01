@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.13)  20 OCT 2020 16:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.13)  20 OCT 2020 16:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -170,14 +170,59 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip49
+) (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count189
+\calc@Bcount=\count190
+\calc@Adimen=\dimen142
+\calc@Bdimen=\dimen143
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count191
+\calc@Cskip=\skip52
+) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+ (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen144
+\AM@pageheight=\dimen145
+ (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box45
+\AM@global@opts=\toks17
+\AM@pagecnt=\count192
+\AM@toc@title=\toks18
+\c@AM@survey=\count193
+\AM@templatesizebox=\box46
 ) (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count189
-\l__pdf_internal_box=\box45
+\l__kernel_color_stack_int=\count194
+\l__pdf_internal_box=\box47
 ) (./clanok.aux)
 \openout1 = `clanok.aux'.
 
@@ -201,24 +246,24 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count190
-\scratchdimen=\dimen142
-\scratchbox=\box46
-\nofMPsegments=\count191
-\nofMParguments=\count192
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count193
-\MPscratchDim=\dimen143
-\MPnumerator=\count194
-\makeMPintoPDFobject=\count195
-\everyMPtoPDFconversion=\toks18
+\scratchcounter=\count195
+\scratchdimen=\dimen146
+\scratchbox=\box48
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen147
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks20
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-\AtBeginShipoutBox=\box47
+\AtBeginShipoutBox=\box49
 Package hyperref Info: Link coloring OFF on input line 30.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -227,7 +272,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count196
+\c@section@level=\count267
 )
 LaTeX Info: Redefining \ref on input line 30.
 LaTeX Info: Redefining \pageref on input line 30.
@@ -236,6 +281,13 @@ LaTeX Info: Redefining \nameref on input line 30.
 \@outlinefile=\write3
 \openout3 = `clanok.out'.
 
+ (/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -250,35 +302,66 @@ File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 33.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+c'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 53.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+t'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 53.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+c'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 58.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+t'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 58.
-
-(./clanok.bbl [1
+<Diagram.pdf, id=25, 553.06625pt x 672.5125pt>
+File: Diagram.pdf Graphic file (type pdf)
+<use Diagram.pdf>
+Package pdftex.def Info: Diagram.pdf  used on input line 50.
+(pdftex.def)             Requested size: 553.0649pt x 672.51085pt.
+File: Diagram.pdf Graphic file (type pdf)
+<use Diagram.pdf>
+Package pdftex.def Info: Diagram.pdf  used on input line 50.
+(pdftex.def)             Requested size: 553.0649pt x 672.51085pt.
+<Diagram.pdf, id=28, page=1, 553.06625pt x 672.5125pt>
+File: Diagram.pdf Graphic file (type pdf)
+<use Diagram.pdf, page 1>
+Package pdftex.def Info: Diagram.pdf , page1 used on input line 50.
+(pdftex.def)             Requested size: 553.0649pt x 672.51085pt.
+File: Diagram.pdf Graphic file (type pdf)
+<use Diagram.pdf, page 1>
+Package pdftex.def Info: Diagram.pdf , page1 used on input line 50.
+(pdftex.def)             Requested size: 597.57271pt x 726.63106pt.
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+File: Diagram.pdf Graphic file (type pdf)
+<use Diagram.pdf, page 1>
+Package pdftex.def Info: Diagram.pdf , page1 used on input line 50.
+(pdftex.def)             Requested size: 597.57271pt x 726.63106pt.
+File: Diagram.pdf Graphic file (type pdf)
+<use Diagram.pdf, page 1>
+Package pdftex.def Info: Diagram.pdf , page1 used on input line 50.
+(pdftex.def)             Requested size: 597.57271pt x 726.63106pt.
+File: Diagram.pdf Graphic file (type pdf)
+<use Diagram.pdf, page 1>
+Package pdftex.def Info: Diagram.pdf , page1 used on input line 50.
+(pdftex.def)             Requested size: 597.57271pt x 726.63106pt.
+ [2 <./Diagram.pdf>]
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 53.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 53.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 58.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 58.
+
+(./clanok.bbl
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 32.
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
- [2]
+ [3]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
  (./clanok.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
@@ -288,18 +371,18 @@ Package rerunfilecheck Info: File `clanok.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
  ) 
 Here is how much of TeX's memory you used:
- 6437 strings out of 481239
- 96604 string characters out of 5920376
- 366928 words of memory out of 5000000
- 21569 multiletter control sequences out of 15000+600000
+ 7656 strings out of 481239
+ 113952 string characters out of 5920376
+ 390112 words of memory out of 5000000
+ 22753 multiletter control sequences out of 15000+600000
  543917 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,7n,31p,277b,491s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/cssl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/cstt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/cstt9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on clanok.pdf (2 pages, 94639 bytes).
+ 40i,18n,45p,277b,516s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/csti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/cstt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cs/cstt9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on clanok.pdf (3 pages, 181385 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 125 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
