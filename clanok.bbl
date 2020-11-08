@@ -1,34 +1,14 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{}
 
-\bibitem{Coplien:MPD}
-James~O. Coplien.
-\newblock {\em Multi-Paradigm Design for C++}.
-\newblock Addison-Wesley, 1999.
+\bibitem[Northern, 2018]{pblf}
+Northern, S. (2018).
+\newblock Phenomenon-based learning in finland inspires student inquiry.
+\newblock
+  \url{https://blogs.edweek.org/edweek/global_learning/2018/10/phenomenon-based_learning_in_finland_inspires_inquiry.html}.
 
-\bibitem{Czarnecki:Staged}
-Krzysztof Czarnecki, Simon Helsen, and Ulrich Eisenecker.
-\newblock Staged configuration through specialization and multi-level
-  configuration of feature models.
-\newblock {\em Software Process: Improvement and Practice}, 10:143--169,
-  April/June 2005.
-
-\bibitem{Czarnecki:Progress}
-Krzysztof Czarnecki and Chang Hwan~Peter Kim.
-\newblock Cardinality-based feature modeling and constraints: A progress
-  report.
-\newblock In {\em International Workshop on Software Factories, OOPSLA 2005},
-  San Diego, USA, October 2005.
-
-\bibitem{Kang:FODA}
-Kyo~C. Kang, Sholom~G. Cohen, James~A. Hess, William~E. Novak, and A.~Spencer
-  Peterson.
-\newblock Feature-oriented domain analysis ({FODA}): A feasibility study.
-\newblock Technical Report CMU/SEI-90-TR-21, Software Engineering Institute,
-  Carnegie Mellon University, Pittsburgh, USA, November 1990.
-
-\bibitem{PLP-Framework}
-Carnegie Mellon~University Software Engineering~Institute.
-\newblock A framework for software product line practice---version 5.0.
-\newblock \url{http://www.sei.cmu.edu/productlines/frame_report/}.
+\bibitem[Wakıl et~al., 2019]{jcer553507}
+Wakıl, K., Rahman, R., Hasan, D., Mahmood, P., and Jalal, T. (2019).
+\newblock Phenomenon-based learning for teaching ict subject through other
+  subjects in primary schools.
 
 \end{thebibliography}

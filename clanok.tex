@@ -1,6 +1,6 @@
 % Metódy inžinierskej práce
 
-\documentclass[10pt,twoside,slovak,a4paper]{article}
+\documentclass[10pt,slovak,a4paper]{article}
 
 \usepackage[slovak]{babel}
 %\usepackage[T1]{fontenc}
@@ -11,6 +11,7 @@
 \usepackage{hyperref} % odkazy v texte budú aktívne (pri niektorých triedach dokumentov spôsobuje posun textu)
 \usepackage{pdfpages}
 \usepackage{cite}
+\usepackage{dirtytalk}
 %\usepackage{times}
 
 \pagestyle{headings}
@@ -32,42 +33,53 @@
 \maketitle
 
 \begin{abstract}
-	Fínsko, krajina ktorá patrí medzi lídrov vo vzdelávaní sa v rokoch 2016 - 2017 plne prešla na
-	„Phenomenon-based learning”, ktoré nahradilo nám známe predmety ako matematika,
-	fyzika, dejepis, atd., veľkými témami ktoré sú preberané z každej strany. Ku príkladu Druhá
-	svetová vojna na ktorú sa môžeme pozrieť či už z geografického hladiska - kde všade po
-	svete reálne prebiehala, historického, fyzikálneho, psychologického - mentalita ľudí v tej
-	dobe/stituácii.  Je týmto spôsobom jednoduchšie učiť sa o veciach keď je vidno prepojenia
-	medzi nimi ako učit sa fakty z učebnice naspamäť? Je prechod na takýto systém reálne
-	zlepšením alebo sú osvedčené predmety lepšie? Prechod celého štátu na takýto systém a
-	prípadné problémy.\cite{Coplien:MPD}\cite{Czarnecki:Progress}\cite{Czarnecki:Staged}\cite{Kang:FODA}\cite{PLP-Framework}
+	Vzdelávanie pomocou fenoménov je vzdelávanie v ktorom neexistujú 
+	tradičné predmety ale vzdeláva sa na základe väčších tém ktoré sa rozoberajú zo všetkých strán.
+	Jednu tému vieme rozobrať z fizikálneho, geografického, matematického, dejepisného alebo iného 
+	hladiska. Tento štýl vzdelávania by mal zlepšit pochopenie učiva, keďze ludzký mozog vie spájať 
+	si súvislosti medzi vecami omnoho lepšie ako si pamätať fakty naspamäť. V niektorých krajinách ktoré
+	patria medzi lídrov vo vzdelávaní sa takýto systém už pomaly začína používať v praxi. Štúdia z turecka,
+	potvrdila zlepšenie priemeru študentov o viac ako 10\%. Taktiež tento typ vzdelávania pomohol študentom 
+	si dlhšie zachovať znalosťi ktoré nadobudly.\cite{jcer553507} 
 \end{abstract}
-
-
 
 \section{Úvod}
 
-\includepdf[pages=-]{Diagram.pdf}
+Svet a technológie idú dopredu ale sposob vzdelávanie je zastaralý a stovky rokov rovnaký. Znalosti potrebné k
+životu sa menia a preto sa potrebuje prispôsobiť aj vzdelávanie. Aktuálny vzdelávací systém vo väčšine krajín 
+rozdeluje vzdelávanie na určité smery(predmety), núti študentov sa učit vaľa veci z pamäti, vyvíja zbytočný tlak
+a nezmyselne stresuje študentov už od útleho veku. Vzdelávanie na základe
+fenoménov (Phenomenon-Based Learning) je metódou vzdelávania ktorá by mala zvýšit efektivitu vzdelávania
+a dodať študentom lepšiu zručnosť, kreativitu, kritické myslenie, a schopnosť koloaborovať. Závisí na študovaní
+fenoménu reálneho sveta z rôznych smerov pomocou čoho prepája hranice medzi školskými predmetami ako ich poznáme.
+Mení vysvetlovanie novej látky z vysvetlenia učiva, vhoršom prípade len napísania poznámok z látky na tabulu na úvádzanie
+študentou do témy cez zauhjímavé príbehy alebo hry a nabádanie ich k otázkam vďaka ktorým si znalosť témy osvoja a hlbšie zapametajú.
+Aktívne núti študentov kolaborovať medzi sebov a zúčastnovať sa na spoločných aktivitách za účelom riešenia
+problémov a odpovedania na otázky. 
+
+\section{Definícia pojmov}
+
+\subsection{Fenomén}
+
+Fenomén môžeme definovať ako niečo čo existuje a môžeme to vidieť, cítiť, ochutnat, atd., hlane niečo neobyčajné
+a zaujímavé. Príkladom pre fenomén môžeu byť vedecké objavy, trendy v technológiách alebo prírodné katastrofy.\cite{pblf}
+
+%\subsection{Vzdelávanie na základe fenoménov}
+
+%Vzdelávanie na základe fenoménov tzv.\say{Phenomenon-Based Learning} alebo skrátene PhenoBL. 
+
+\section{Jadro}
 
 
-\section{Nejaká časť} \label{nejaka}
 
+\section{Záver}
 
+Výsledký o vzdelávaniana základe fenoménov nachádzajú zlepšenie vo výsledkoch študentov. Fínsko po implementácii
+tohoto vzdelávacieho systému priamo do školstva v celej krajine sa stále drží medzi top krajinami na svete a zaznamenalo 
+nárast úspešnosti študentov. Systém sa javý ako veľkým zlepšením oproti predchádzajúcemu avšak úpravu budú potrebujú aj
+štandardizované testy ktoré su priamo viazané na naspameť fakty na ktoré nieje kladený z dobrých dôvodov dôraz.
 
+\bibliography{literature}
+\bibliographystyle{apalike}
 
-\section{Iná časť} \label{ina}
-
-
-
-
-\section{Záver} \label{zaver} % prípadne iný variant názvu
-
-
-
-%\acknowledgement{Ak niekomu chcete poďakovať\ldots}
-
-
-% týmto sa generuje zoznam literatúry z obsahu súboru literatura.bib podľa toho, na čo sa v článku odkazujete
-\bibliography{literatura}
-\bibliographystyle{plain} % prípadne alpha, abbrv alebo hociktorý iný
 \end{document}
