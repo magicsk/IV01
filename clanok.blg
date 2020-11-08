@@ -5,45 +5,45 @@ The style file: apalike.bst
 Database file #1: literature.bib
 Warning--entry type for "jcer553507" isn't style-file defined
 --line 5 of file literature.bib
-You've used 2 entries,
+You've used 3 entries,
             1935 wiz_defined-function locations,
-            485 strings with 4137 characters,
-and the built_in function-call counts, 626 in all, are:
-= -- 59
-> -- 35
+            494 strings with 4403 characters,
+and the built_in function-call counts, 1028 in all, are:
+= -- 97
+> -- 53
 < -- 1
-+ -- 12
-- -- 12
-* -- 48
-:= -- 127
-add.period$ -- 5
-call.type$ -- 2
-change.case$ -- 16
-chr.to.int$ -- 2
-cite$ -- 2
-duplicate$ -- 20
-empty$ -- 31
-format.name$ -- 14
-if$ -- 110
++ -- 18
+- -- 18
+* -- 84
+:= -- 199
+add.period$ -- 8
+call.type$ -- 3
+change.case$ -- 24
+chr.to.int$ -- 3
+cite$ -- 3
+duplicate$ -- 34
+empty$ -- 59
+format.name$ -- 21
+if$ -- 187
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 12
-num.names$ -- 6
-pop$ -- 12
+missing$ -- 1
+newline$ -- 17
+num.names$ -- 9
+pop$ -- 18
 preamble$ -- 1
-purify$ -- 16
+purify$ -- 24
 quote$ -- 0
-skip$ -- 18
+skip$ -- 28
 stack$ -- 0
-substring$ -- 24
-swap$ -- 0
+substring$ -- 54
+swap$ -- 1
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 12
+type$ -- 18
 warning$ -- 0
-while$ -- 4
+while$ -- 7
 width$ -- 0
-write$ -- 24
+write$ -- 37
 (There was 1 warning)

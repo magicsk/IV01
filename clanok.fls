@@ -103,6 +103,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /mnt/c/Users/magic_sk/Development/latex/MIP01/clanok.aux
@@ -159,10 +161,14 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx12.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /mnt/c/Users/magic_sk/Development/latex/MIP01/./graphics/table.png
+INPUT ./graphics/table.png
+INPUT ./graphics/table.png
 INPUT /mnt/c/Users/magic_sk/Development/latex/MIP01/clanok.bbl
 INPUT /mnt/c/Users/magic_sk/Development/latex/MIP01/clanok.bbl
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/cstt10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/cssl10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csti10.tfm
 INPUT /mnt/c/Users/magic_sk/Development/latex/MIP01/clanok.aux
 INPUT /mnt/c/Users/magic_sk/Development/latex/MIP01/clanok.out
 INPUT /mnt/c/Users/magic_sk/Development/latex/MIP01/clanok.out
@@ -175,6 +181,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr17.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr9.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/cssl10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csti10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/cstt10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/cstt9.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb
