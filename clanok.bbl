@@ -1,20 +1,48 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
 
-\bibitem[Northern, 2018]{pblf}
-Northern, S. (2018).
+\bibitem{jcer}
+Karzan Wakıl, Rupak Rahman, Dana Hasan, Pakhshan Mahmood, and Trifa Jalal.
+\newblock Phenomenon-based learning for teaching ict subject through other
+  subjects in primary schools, 2019.
+
+\bibitem{pblf}
+Sam Northern.
 \newblock Phenomenon-based learning in finland inspires student inquiry.
 \newblock
-  \url{https://blogs.edweek.org/edweek/global_learning/2018/10/phenomenon-based_learning_in_finland_inspires_inquiry.html}.
+  \url{https://blogs.edweek.org/edweek/global_learning/2018/10/phenomenon-based_learning_in_finland_inspires_inquiry.html},
+  2018.
 
-\bibitem[Santhalia et~al., 2020]{Santhalia_2020}
-Santhalia, P.~W., Yuliati, L., and Wisodo, H. (2020).
+\bibitem{fsew}
+Matthew Lynch.
+\newblock Finland’s secret education weapon: Phenomenon-based learning.
+\newblock
+  \url{https://www.thetechedvocate.org/finlands-secret-education-weapon-phenomenon-based-learning/},
+  2019.
+
+\bibitem{pbldc}
+Matthew Cwalina.
+\newblock Phenomena-based learning and digital content.
+\newblock
+  \url{https://www.edcircuit.com/phenomena-based-learning-and-digital-content/},
+  2017.
+
+\bibitem{outdacc}
+Rapanta C. Botturi~L. Goodyear.
+\newblock Online university teaching during and after the covid-19 crisis:
+  Refocusing teacher presence and learning activity.
+\newblock {\em Postdigital Science and Education}, 2020.
+
+\bibitem{ELZAINY}
+Ahmed Elzainy, Abir {El Sadik}, and Waleed {Al Abdulmonem}.
+\newblock Experience of e-learning and online assessment during the covid-19
+  pandemic at the college of medicine, qassim university.
+\newblock {\em Journal of Taibah University Medical Sciences}, 15(6):456 --
+  462, 2020.
+
+\bibitem{Santhalia_2020}
+P~W Santhalia, L~Yuliati, and H~Wisodo.
 \newblock Building students' problem-solving skill in the concept of
   temperature and expansion through phenomenon-based experiential learning.
-\newblock {\em Journal of Physics: Conference Series}, 1422:012021.
-
-\bibitem[Wakıl et~al., 2019]{jcer553507}
-Wakıl, K., Rahman, R., Hasan, D., Mahmood, P., and Jalal, T. (2019).
-\newblock Phenomenon-based learning for teaching ict subject through other
-  subjects in primary schools.
+\newblock {\em Journal of Physics: Conference Series}, 1422:012021, jan 2020.
 
 \end{thebibliography}
